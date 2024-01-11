@@ -1,0 +1,61 @@
+.adminform {
+    flex: 0.5;
+}
+
+.adminform_container {
+    display: flex;
+    height: 80vh;
+}
+
+.progress_container {
+    display: flex;
+    justify-content: flex-end;
+    height: 100px;
+    border-bottom: solid 1px #ececec;
+}
+
+.progresscard {
+    display: flex;
+}
+
+.access {
+    display: flex;
+    flex-direction: column;
+    flex: 0.5;
+    overflow-y: auto;
+}
+
+.access_container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.access_card {
+    height: 50px;
+    width: 95%;
+    background-color: #4da8ff;  
+    padding: 2%;  
+    margin: 5px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.details
+{
+    display: flex;
+}
+
+.functions
+{
+    display: flex;
+    gap: 10px;
+}
+
+.functions_button 
+{
+    height: 30px;
+    background-color: #4da8ff;
+}

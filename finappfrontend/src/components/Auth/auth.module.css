@@ -1,0 +1,18 @@
+.login 
+{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(237, 237, 237);
+    padding: 1%;
+    display: flex;
+}
+.login_container
+{
+    height: 50%;
+    width: 40%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    border-radius: 10px;
+    padding: 30px 10px 10px 10px;
+    max-width: 40%;
+}
